@@ -4,8 +4,9 @@
 
 int main()
 {
+	int c;
 	int a=0;
 	int b=0;
-	printf("%d%d",a,b);
+	printf("%d%d",c*a,b);
 	return 0;
 }
